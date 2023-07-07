@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "urth:block/hydrogen",
+    "up": "urth:block/hydrogen",
+    "north": "urth:block/hydrogen",
+    "east": "urth:block/hydrogen",
+    "south": "urth:block/hydrogen",
+    "west": "urth:block/hydrogen",
+    "particle": "urth:block/hydrogen"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,12 @@
+{
+  "block.urth.lithium_block": "Lithium Block",
+  "item.urth.lithium_nugget": "Lithium Nugget",
+  "item.urth.beryllium_nugget": "Beryllium Nugget",
+  "item.urth.beryllium_ingot": "Beryllium Ingot",
+  "entity.urth.temp": "Temp",
+  "item_group.urth.elements": "Elements",
+  "block.urth.helium": "Helium",
+  "block.urth.hydrogen": "Hydrogen",
+  "item.urth.lithium_ingot": "Lithium Ingot",
+  "block.urth.beryllium_block": "Beryllium Block"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "urth:block/lithium_block",
+    "up": "urth:block/lithium_block",
+    "north": "urth:block/lithium_block",
+    "east": "urth:block/lithium_block",
+    "south": "urth:block/lithium_block",
+    "west": "urth:block/lithium_block",
+    "particle": "urth:block/lithium_block"
+  },
+  "render_type": "solid"
+}

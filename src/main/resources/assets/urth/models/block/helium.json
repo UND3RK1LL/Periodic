@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "urth:block/helium",
+    "up": "urth:block/helium",
+    "north": "urth:block/helium",
+    "east": "urth:block/helium",
+    "south": "urth:block/helium",
+    "west": "urth:block/helium",
+    "particle": "urth:block/helium"
+  },
+  "render_type": "translucent"
+}

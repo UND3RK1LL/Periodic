@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "urth:block/beryllium_block",
+    "up": "urth:block/beryllium_block",
+    "north": "urth:block/beryllium_block",
+    "east": "urth:block/beryllium_block",
+    "south": "urth:block/beryllium_block",
+    "west": "urth:block/beryllium_block",
+    "particle": "urth:block/beryllium_block"
+  },
+  "render_type": "solid"
+}

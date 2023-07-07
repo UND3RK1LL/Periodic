@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "urth:lithium_nugget"
+    },
+    "1": {
+      "item": "urth:lithium_nugget"
+    },
+    "2": {
+      "item": "urth:lithium_nugget"
+    },
+    "3": {
+      "item": "urth:lithium_nugget"
+    },
+    "4": {
+      "item": "urth:lithium_nugget"
+    },
+    "5": {
+      "item": "urth:lithium_nugget"
+    },
+    "6": {
+      "item": "urth:lithium_nugget"
+    },
+    "7": {
+      "item": "urth:lithium_nugget"
+    },
+    "8": {
+      "item": "urth:lithium_nugget"
+    }
+  },
+  "result": {
+    "item": "urth:lithium_ingot",
+    "count": 1
+  }
+}
